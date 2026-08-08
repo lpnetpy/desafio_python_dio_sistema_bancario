@@ -79,6 +79,3 @@ O projeto é organizado em funções, cada uma responsável por uma operação:
 ## Licença
 
 Projeto livre para fins de estudo.
-## Licença
-
-Projeto livre para fins de estudo.
